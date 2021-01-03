@@ -1,0 +1,16 @@
+{
+  "main.css": "/react_deploy_trial_2_vercel/static/css/main.3e825baf.chunk.css",
+  "main.js": "/react_deploy_trial_2_vercel/static/js/main.796b57c3.chunk.js",
+  "main.js.map": "/react_deploy_trial_2_vercel/static/js/main.796b57c3.chunk.js.map",
+  "runtime~main.js": "/react_deploy_trial_2_vercel/static/js/runtime~main.f7a83242.js",
+  "runtime~main.js.map": "/react_deploy_trial_2_vercel/static/js/runtime~main.f7a83242.js.map",
+  "static/css/2.fb886048.chunk.css": "/react_deploy_trial_2_vercel/static/css/2.fb886048.chunk.css",
+  "static/js/2.03ded776.chunk.js": "/react_deploy_trial_2_vercel/static/js/2.03ded776.chunk.js",
+  "static/js/2.03ded776.chunk.js.map": "/react_deploy_trial_2_vercel/static/js/2.03ded776.chunk.js.map",
+  "index.html": "/react_deploy_trial_2_vercel/index.html",
+  "precache-manifest.3a0da53d2cf612d800b366a23cb069f6.js": "/react_deploy_trial_2_vercel/precache-manifest.3a0da53d2cf612d800b366a23cb069f6.js",
+  "service-worker.js": "/react_deploy_trial_2_vercel/service-worker.js",
+  "static/css/2.fb886048.chunk.css.map": "/react_deploy_trial_2_vercel/static/css/2.fb886048.chunk.css.map",
+  "static/css/main.3e825baf.chunk.css.map": "/react_deploy_trial_2_vercel/static/css/main.3e825baf.chunk.css.map",
+  "static/media/font-awesome.css": "/react_deploy_trial_2_vercel/static/media/fontawesome-webfont.fee66e71.woff"
+}
